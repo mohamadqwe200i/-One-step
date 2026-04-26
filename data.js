@@ -48,7 +48,7 @@ const booksData = [
   // ─── الكتاب 1 ────────────────────────────────────
   {
     id: 1,
-    titleAr:    " - تجربة الإنسان الكامل",
+    titleAr:    " 3 تجربة الإنسان الكامل",
     titleEn:    "The perfect human",
     descAr:     "كتاب يتناول معايير كمال الإنسانية في الإسلام القائمة على التوازن بين العقل والروح والعمل، متخذاً من الإمام علي عليه السلام نموذجاً تطبيقياً.",
     descEn:     "A book exploring Islamic standards for human perfection through balanced growth of intellect, spirit, and action, presenting Imam Ali (peace be upon him) as the ultimate model.",
